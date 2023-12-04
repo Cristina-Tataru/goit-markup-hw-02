@@ -45,6 +45,15 @@ body {
     text-decoration: none;
 }
 
+.link:hover {
+    color: #404bbf;
+
+}
+
+.link:focus {
+    color: #404bbf;
+
+}
 
 .list-a {
     font-weight: 500;
@@ -58,6 +67,8 @@ body {
 
 .list-address {
     color: #434455;
+    letter-spacing: 0.02em;
+    columns: #434455;
 }
 
 .list-a:focus {
