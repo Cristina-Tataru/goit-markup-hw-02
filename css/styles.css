@@ -96,11 +96,37 @@ a:focus {
     text-align: center;
     letter-spacing: 0.02em;
     color:#ffffff;
-    
+
 
 }
 
+.btn {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    /* 150% */
+    letter-spacing: 0.64px;
+}
 
+.btn:hover {
+    color: white;
+    background-color: #404BBF;
+}
+
+
+.main-btn{
+    background-color: #4D5AE5  ;
+    font-family: 'Roboto', sans-serif;
+    color:#ffffff ;
+    cursor: pointer;
+}
+
+.main-button:hover{
+    background-color: #404bbf;
+}
 /* dslkfjsldkjflskdjflksdjf */
 .title {
     color: var(--WHITE, #FFF);
@@ -149,20 +175,4 @@ a:focus {
     line-height: 24px;
     /* 150% */
     letter-spacing: 0.32px;
-}
-
-.btn {
-    text-align: center;
-    font-family: Roboto;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px;
-    /* 150% */
-    letter-spacing: 0.64px;
-}
-
-.btn:hover {
-    color: white;
-    background-color: #404BBF;
 }
