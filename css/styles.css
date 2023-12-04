@@ -16,7 +16,6 @@
 
 body {
     font-family: var(--text-font-family);
-    brand-color: var(--brand-color);
     background-color: #FFF;
     font-size: 16px;
     font-weight: 400;
