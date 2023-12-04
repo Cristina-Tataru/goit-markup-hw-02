@@ -124,7 +124,7 @@ a:focus {
     cursor: pointer;
 }
 
-.main-button:hover{
+.main-button:focus{
     background-color: #404bbf;
 }
 /* dslkfjsldkjflskdjflksdjf */
