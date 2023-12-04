@@ -116,6 +116,10 @@ a:focus {
   background-color: #f4f4fd;
 }
 
+.main-section-four-li {
+  background-color: #ffffff;
+}
+
 .main-section-four-header {
   font-size: 36px;
   line-height: 1.11;
