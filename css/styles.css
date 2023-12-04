@@ -131,6 +131,9 @@ background-color:#F4F4FD  ;
 
 }
 
+.main-section-four li{
+    background-color: #ffffffff;
+}
 .main-section-four-header{
     font-size: 36px;
     line-height: 1.11;
@@ -138,9 +141,11 @@ background-color:#F4F4FD  ;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color:#2e2f42 ;
-    
+
 
 }
+
+
 
 .btn {
     text-align: center;
