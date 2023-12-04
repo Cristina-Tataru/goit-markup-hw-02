@@ -2,7 +2,7 @@
   /* --brand-color: #434455; */
   --text-font-family: "Roboto", sans-serif;
   --header-font-family: "Raleway", sans-serif;
-  --brand-color: #4d5ae5;
+  /* --brand-color: #4d5ae5;
   --brand-color: #404bbf;
   --brand-color: #2e2f44;
   --brand-color: #31d0aa;
@@ -11,7 +11,7 @@
   --brand-color: #f4f4fd;
   --brand-color: #2e2f42;
   --brand-color: white;
-  --brand-color: #fcfcfc;
+  --brand-color: #fcfcfc; */
 }
 
 body {
@@ -20,7 +20,6 @@ body {
   font-size: 16px;
   font-weight: 400;
   line-height: 150%;
-  color: #2e2f42;
 }
 
 .logo-studio {
