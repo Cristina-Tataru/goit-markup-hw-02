@@ -22,14 +22,23 @@ body {
     line-height: 150%;
 }
 
-.logo-web {
-    color: #4D5AE5;
-    font-family: var(--header-font-family);
-}
-
 .logo-studio {
     color: #2E2F42;
+}
+
+.logo {
     font-family: var(--header-font-family);
+    font-weight: 800px;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    .link
+}
+
+.link {
+    text-decoration: none;
 }
 
 a:hover {
