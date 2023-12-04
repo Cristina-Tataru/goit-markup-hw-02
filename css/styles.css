@@ -56,6 +56,10 @@ body {
     color: #404bbf;
 }
 
+.list-address {
+    color: #434455;
+}
+
 .list-a:focus {
     color: #404bbf;
 }
